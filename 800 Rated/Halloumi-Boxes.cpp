@@ -1,6 +1,7 @@
 /*
-Miles to go before I sleep,
-Miles to go before I sleep.
+    Concept of Bubble Sort: Atleast 2 adjacent elements are required to make the array sorted.
+                            In case of 1 element, array should be already sorted.
+
 */
 #include <bits/stdc++.h>
 
