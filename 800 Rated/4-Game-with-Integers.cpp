@@ -1,4 +1,5 @@
-/*
+/*  Approach:
+
     *Between any Two Mutliples of 3 only two numbers exists*
 
     3 , 4 , 5 , 6
@@ -6,7 +7,7 @@
     if Vanya is on multiple of 3 then she will never win the game because she has to either increase of decrease.
 
     Otherwise Vanya will be either at n=4 (which is just 1 above) or n=5 (which is just 1 Below) in that case she will easily win by increasing or decreasing.
-    
+
 */
 #include <bits/stdc++.h>
 
