@@ -1,4 +1,5 @@
 /*
+    Approach :
     first check array is unsorted or not. if unsorted then 0 operations are required.
     
     if array is sorted then for each  1 <= 'i' <= n , take diff. with previous element.
